@@ -20,3 +20,19 @@ body {
 #main-nav-bar .navbar-brand {
     color: #ea1c2c;
 }
+
+#heading-group span {
+    color: #ea1c2c;
+}
+
+#heading-group h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+@media (max-width: 1300px) {
+    #heading-group h1 {
+        font-weight: 100;
+        font-size: 2.5rem;
+    }
+}
